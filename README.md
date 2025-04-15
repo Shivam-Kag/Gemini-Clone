@@ -27,7 +27,7 @@ import {
 } from "@google/genai"
 
 const MODEL_NAME ="gemini-2.0-flash"
-const API_KEY =  "AIzaSyD2go4PBmA4hCag3DU-4BU3jLDiJq9Gifc"
+const API_KEY = ""
 
 
 
