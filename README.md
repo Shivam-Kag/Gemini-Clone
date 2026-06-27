@@ -75,7 +75,3 @@ async function runChat(prompt) {
 }
 
 export default runChat;
-
-
-
-const API_KEY =  "AIzaSyAtfuSCQ5Mdm-K7E95hEK93T5x2jm4DgTQ"
